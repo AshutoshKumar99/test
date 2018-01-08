@@ -1,0 +1,17 @@
+node
+{
+
+stage 'Dev'
+echo 'Hello'
+
+
+
+stage 'QA'
+echo 'Java'
+
+
+
+
+
+
+}
